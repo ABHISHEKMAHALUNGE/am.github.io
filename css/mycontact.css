@@ -1,0 +1,42 @@
+body{  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bee87a0-72b6-46cf-b149-edb0c6d94896/d31xv3u-5c68d47f-9c2f-47c2-8c9d-5134fd752baf.jpg/v1/fill/w_1024,h_618,q_75,strp/azad_hall_of_residence_by_tharunvvijayan_d31xv3u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjE4IiwicGF0aCI6IlwvZlwvM2JlZTg3YTAtNzJiNi00NmNmLWIxNDktZWRiMGM2ZDk0ODk2XC9kMzF4djN1LTVjNjhkNDdmLTljMmYtNDdjMi04YzlkLTUxMzRmZDc1MmJhZi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.92WLu-byK2bfOXsWCK9l_2tcZ00CFdZy5wmS2KKZGzk);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;}
+.address{width: 50%;
+margin: auto;
+text-align: center;
+background-color: rgba(0, 0, 0.5, 0.5);
+border-top-right-radius: 30px;
+border-bottom-left-radius: 30px;
+border-top-left-radius: 30px;
+border-bottom-right-radius: 30px;
+padding: 20px 50px 20px 50px;
+margin-top: 10px;
+font-family: 'Dancing Script', cursive;}
+.azad{  color: white;
+  font-size: 50px;
+  outline: solid;}
+h2{  color: white;}
+.m1{  padding: 10px;
+  text-decoration: none;
+  outline: solid;
+  margin: 10px;
+    color: white;}
+.m1:hover{  color: green;}
+.d1{  text-align: right;
+  width: 100%;
+  height: 50px;
+  margin-right: 20px;}
+.menu{background-color: rgba(0, 0, 0.5, 0.5);}
+.online{  height: 100px;}
+.online:hover{  transform: scale(1.5);}
+.social{  margin: 100px;}
+.socialsites{text-align: center;
+margin-top: 60px;}
+.foot{   background-color: rgba(0, 0, 0.5, 0.5);
+   margin-bottom: 20px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   color: white;}
+.pr{  font-family: 'Lexend Giga', sans-serif;
+  color: white;}
