@@ -11,7 +11,7 @@
 .menu{background-color: rgba(0, 0, 0.5, 0.5);}
 .profilepic{  shape-image-threshold: circle ;
   border-radius: 100%;
-  width:25%;
+  width:55%;
   box-shadow: 10px 10px 5px rgba(0, 0, 0.5, 0.5);}
 .profilepic: hover{transform: scale(1.5);}
 .intro{  background-color: rgba(0, 0, 0.5, 0.5);
